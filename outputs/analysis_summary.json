@@ -1,0 +1,25 @@
+{
+  "part3": {
+    "alpha": 0.05,
+    "test": "two-sided Mann-Whitney U",
+    "multiple_testing": "Benjamini-Hochberg FDR",
+    "significant_populations_after_fdr": []
+  },
+  "part4": {
+    "baseline_subset_samples": 656,
+    "samples_per_project": {
+      "prj1": 384,
+      "prj3": 272
+    },
+    "subjects_by_response": {
+      "no": 325,
+      "yes": 331
+    },
+    "subjects_by_sex": {
+      "F": 312,
+      "M": 344
+    },
+    "required_avg_b_cells_melanoma_male_responder_time0_all_types": 10206.15,
+    "required_query_matching_samples": 485
+  }
+}

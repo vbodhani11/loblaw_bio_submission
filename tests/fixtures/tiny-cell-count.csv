@@ -1,0 +1,6 @@
+project,subject,condition,age,sex,treatment,response,sample,sample_type,time_from_treatment_start,b_cell,cd8_t_cell,cd4_t_cell,nk_cell,monocyte
+prj1,s1,melanoma,60,M,miraclib,yes,a,PBMC,0,10,20,30,20,20
+prj1,s1,melanoma,60,M,miraclib,yes,b,PBMC,7,20,20,20,20,20
+prj1,s2,melanoma,62,M,miraclib,no,c,PBMC,0,20,20,20,20,20
+prj2,s3,melanoma,55,M,phauximab,yes,d,TUMOR,0,30,10,20,20,20
+prj2,s4,carcinoma,58,F,miraclib,yes,e,PBMC,0,50,10,10,10,20

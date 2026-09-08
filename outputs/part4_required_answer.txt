@@ -1,0 +1,6 @@
+Required Part 4 question
+------------------------
+Considering melanoma males across ALL sample types and ALL treatment types,
+for responders at time_from_treatment_start = 0:
+Average B-cell count = 10206.15
+Matching samples = 485
