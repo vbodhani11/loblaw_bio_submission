@@ -7,7 +7,6 @@ Python + SQLite pipeline and interactive Streamlit dashboard for the immune-cell
 - Local dashboard: [http://localhost:8501](http://localhost:8501)
 - Live Dashboard: [https://loblaw-bio-dashboard.streamlit.app/](https://loblaw-bio-dashboard.streamlit.app/)
 - GitHub Codespaces: run `make dashboard`, then open forwarded port **8501** from the **Ports** tab.
-- Optional public deployment: deploy `dashboard.py` from this repository with Streamlit Community Cloud and replace this line with the public URL before submitting if a hosted dashboard link is required.
 
 ## Quick start (GitHub Codespaces or local)
 
